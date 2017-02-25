@@ -1,0 +1,7 @@
+{
+    "applicationName": "Project Manager",
+    "persistence": {
+        "type": "json",
+        "path": "./projects.json"
+    }
+}
